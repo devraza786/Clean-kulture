@@ -35,13 +35,13 @@ const Navbar = () => {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-20 items-center justify-between">
           {/* Logo */}
-          <motion.a
+          {/* <motion.a
             href="#home"
-            className="flex items-center gap-3"
+            className="flex  items-center gap-3"
             whileHover={{ scale: 1.02 }}
           >
             <img src={logo} alt="Clean Kulture Logo" className="h-14 w-auto" />
-          </motion.a>
+          </motion.a> */}
 
           {/* Desktop Navigation */}
           <div className="hidden items-center gap-8 md:flex">

@@ -16,7 +16,7 @@ const Footer = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.5 }}
           >
-            <img src={logo} alt="Clean Kulture Logo" className="mb-4 h-16 w-auto" />
+            {/* <img src={logo} alt="Clean Kulture Logo" className="mb-4 h-16 w-auto" /> */}
             <p className="text-muted-foreground">
               Premium mobile detailing services for South Florida. 
               We bring the showroom to you.
